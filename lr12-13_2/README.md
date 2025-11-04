@@ -4,3 +4,4 @@
 
 Приклад використання 
 
+<img width="1289" height="423" alt="image" src="https://github.com/user-attachments/assets/847b0ec9-a2fc-4ade-92bb-690f2e024578" />
