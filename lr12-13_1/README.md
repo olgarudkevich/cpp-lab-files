@@ -4,3 +4,4 @@
 
 Приклад виконання 
 
+<img width="1369" height="260" alt="image" src="https://github.com/user-attachments/assets/a9e0d0cb-c82d-4698-9cf7-400578df7a74" />
